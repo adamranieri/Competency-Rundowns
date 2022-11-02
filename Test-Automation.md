@@ -57,7 +57,7 @@ Test Automation is the ability to write programmatic tests. Often, test automati
 | [E2E Tests On Project](https://github.com/adamranieri/TestAutomation-CAPs/blob/main/bounty-e2e-tests-p2.md) | Project | 40+ hours | 4 |
 | [Automation Exam](https://app.revature.com/admin-v2/quiz/view/6882) | Exam |1 hour | (Exam Score % * 10) - 7 |
 
-Rubric
+#### Rubric
 -	20+
     -	Very Solid understanding of Test Automation
     -	Should be able to work independently

@@ -27,6 +27,8 @@ paragraph that describes what the competency is
 |----------------------------|-------------------------------|-------------------|----------------------------------------|
 | [Bounty name](link to CAP) | Project, Exam, Coding Activity| Time in hours     |Estimated points(Akin to Agile pointing)|
 
+#### Rubric
+- Using points describe the level of competency
 
 
 ```
