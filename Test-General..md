@@ -53,10 +53,20 @@ General Testing is the ability to think critically about creating test cases, kn
 - Associate cannot walk through STLC or Defect Lifecycles
 - Fails to understand basic testing terms like
   - Postive and Negative testing
-  - Function and non functional testing
+  - Functional and non functional testing
   - Automated vs manual testing
   - unit, integeration and system tests
 - Associate is unable to describe the purpose or parts of a RTM, Test Plan or Test Strategy
 
 ### CAPs
+
+
+| Bounty | Type | Duration | CAPs|
+|--------|------|----------|-----|
+| Repeat Terminology Exam | Exam |1 hour * 4 | (10 * lastExam%) -5|
+| Repeat Testing Document Exam | Exam |1 hour * 4 | (10 * lastExam%) -7|
+| Practice Test Cases | Activity | 3 hours | 3 |       
+| Used a test reporter | Project | 40+ hours | 4 |
+| Bug Catcher | project | 40+ hours | 5 |
+
 

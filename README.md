@@ -30,5 +30,4 @@ paragraph that describes what the competency is
 #### Rubric
 - Using points describe the level of competency
 
-
 ```
